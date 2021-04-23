@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # OpenFlights
+
+After Pull request, try the command: bundle install, then Rails S.
+If that doesn't work, you made need to run: Rails Webpacker:install or Rails Webpacker:update. 
